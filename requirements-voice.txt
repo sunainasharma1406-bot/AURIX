@@ -1,0 +1,6 @@
+# Optional offline voice INPUT features (voice output now uses Windows' built-in System.Speech, no install needed). Install with install_voice_features.bat.
+sounddevice>=0.4.6,<1
+vosk>=0.3.45,<1
+openwakeword>=0.6.0,<1
+onnxruntime>=1.18,<2
+numpy>=1.26,<3
